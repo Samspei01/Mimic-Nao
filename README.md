@@ -54,7 +54,7 @@ This project uses pose estimation to mimic movements using a NAO robot. The goal
 
 Here is a demonstration of the project in action:
 
-![Mimic NAO Demonstration]()
+![Mimic NAO Demonstration](video.mp4)
 
 ## Documentation
 
