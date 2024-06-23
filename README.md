@@ -7,6 +7,7 @@ This project uses pose estimation to mimic movements using a NAO robot. The goal
 - `pose estimation.py`: Performs real-time pose estimation using the MediaPipe library and OpenCV. Captures video from the webcam, processes each frame to detect human body landmarks, and records the positions of key points (shoulders, elbows, and wrists) in a text file.
 - `NAO.py`: Connects to a NAO robot and uses pre-recorded body landmark coordinates to control the robot's arm movements. The script reads the coordinates from a text file and sends commands to the robot to move its arms accordingly.
 - `video.mp4`: Demonstration video of the NAO robot mimicking movements.
+- `Mimic_Nao.pdf`: Detailed documentation of the project, including setup instructions, code explanations, and usage guidelines.
 
 ## How It Works
 
@@ -54,7 +55,7 @@ This project uses pose estimation to mimic movements using a NAO robot. The goal
 
 Here is a demonstration of the project in action:
 
-[![Mimic NAO Demonstration](https://vimeo.com/965895468?share=copy)](https://vimeo.com/965895468)
+[![Mimic NAO Demonstration](https://i.vimeocdn.com/video/1418704725_640.jpg)](https://vimeo.com/965895468)
 
 
 ## Documentation
