@@ -42,12 +42,12 @@ This project uses pose estimation to mimic movements using a NAO robot. The goal
 
 3. Run the pose estimation script:
     ```bash
-    python script1.py
+    python pose estimation.py
     ```
 
 4. Connect and control the NAO robot:
     ```bash
-    python Nao.py
+    python2 Nao.py
     ```
 
 ## Demonstration Video
