@@ -56,6 +56,10 @@ Here is a demonstration of the project in action:
 
 ![Mimic NAO Demonstration]()
 
+## Documentation
+
+For detailed information about the project, including setup instructions, code explanations, and usage guidelines, please refer to the [documentation](Mimic_Nao.pdf).
+
 ## Instructions for Working with NAO
 
 1. **Connect to NAO**:
