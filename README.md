@@ -92,3 +92,13 @@ For detailed information about the project, including setup instructions, code e
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+<h2>Contact</h2>
+
+<p>For any questions or inquiries, please feel free to reach out to the project maintainers:</p>
+
+<ul>
+    <li>Abdelrahman saaed - abdosaaed749@gmail.com </li>
+    <li>Mostafa Magdy - Mustafamagdy2002@gmail.com </li>
+
+</ul>
